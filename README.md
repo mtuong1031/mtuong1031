@@ -1,4 +1,4 @@
-c<div align="center">
+<div align="center">
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:1d4ed8,100:14b8a6&height=180&section=header&text=Hi%2C%20I'm%20Minh%20Tuong&fontSize=34&fontColor=34bdf8&fontAlignY=36&desc=A%20software%20developer%20in%20Hanoi%2C%20Vietnam&descSize=25&descAlignY=58&animation=fadeIn)
 
